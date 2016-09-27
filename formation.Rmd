@@ -198,7 +198,7 @@ Quelques références : Celsa Paris Sorbonne, Conférence universitaire de Suiss
 
 
 ```{r, out.width="50%", fig.align='center'}
-knitr::include_graphics("./img/logov1.png")
+knitr::include_graphics("./img/logorouge.png")
 ```
 
 ```{r, out.width="50%", fig.align='center'}
