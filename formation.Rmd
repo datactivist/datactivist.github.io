@@ -218,4 +218,7 @@ knitr::include_graphics("./img/logoHD-3-copie.png")
 Crédits : [logo R](https://www.r-project.org/logo/) : the R foundation (CC-BY-SA 4.0) ; [salle Superpublic](http://superpublic.fr/wp-content/uploads/sites/4/2015/03/photo-superpublic-site1.jpg) : Superpublic ; [salle le Tank](http://letank.fr/wp-content/uploads/2015/08/reservoir-1600x1067.jpg) : le Tank ; [we make meta data porn](https://twitter.com/JanGuth/status/419095030390091776) : Jan Guth ; [stickers](https://www.stickermule.com/user/1070448958/stickers) : RStudio ; carte : cabinet Chantal Deckmyn ; [photo Samuel](https://www.flickr.com/photos/sylviafredriksson/25967093895/in/album-72157666078906651/) : Sylvia Fredriksson.
 
 Cette page est sous licence CC-BY-SA 4.0.
+
+[Mentions légales](./mentionslegales.html)
+
 </footer>
