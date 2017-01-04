@@ -127,13 +127,13 @@ header .logo {
     padding-bottom: 40px;
   }
 }
-#philosophie, #error404 .container {
+#philosophie .container, #error404 .container {
   width: 900px;
   max-width: 100%;
 }
 
 @media screen and (max-width: 400px) {
-  #philosophie, #error404 h1 {
+  #philosophie h1, #error404 h1 {
     margin-bottom: 20px;
   }
 }
@@ -182,13 +182,13 @@ header .logo {
   }
 }
 @media screen and (max-width: 550px) {
-  #philosophie, #error404 .bg-philo {
+  #philosophie .bg-philo, #error404 .bg-philo {
     padding-left: 15px;
     background-image: none;
   }
 }
 @media screen and (max-width: 400px) {
-  #philosophie, #error404 .bg-philo {
+  #philosophie .bg-philo, #error404 .bg-philo {
     padding-top: 40px;
   }
 }
