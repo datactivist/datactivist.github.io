@@ -110,30 +110,30 @@ header .logo {
 }
 
 
-#philosophie h1, #activite h1, #clients h1 {
+#philosophie h1, #activite h1, #clients h1, #error404 h1 {
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 40px;
   font-weight: bold;
 }
 
-#philosophie {
+#philosophie, #error404 {
   background-color: white;
   padding-bottom: 90px;
 }
 
 @media screen and (max-width: 400px) {
-  #philosophie {
+  #philosophie, #error404 {
     padding-bottom: 40px;
   }
 }
-#philosophie .container {
+#philosophie, #error404 .container {
   width: 900px;
   max-width: 100%;
 }
 
 @media screen and (max-width: 400px) {
-  #philosophie h1 {
+  #philosophie, #error404 h1 {
     margin-bottom: 20px;
   }
 }
@@ -147,9 +147,24 @@ header .logo {
   background-position: bottom left;
 }
 
+#error404 .bg-philo {
+  padding-top: 90px;
+  padding-left: 100px;
+  -webkit-background-size: 50px;
+  background-size: 50px;
+  background-image: url(../img/bg-philo.png);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+}
+
 @media screen and (max-width: 930px) {
   #philosophie .bg-philo {
     padding-left: 300px;
+  }
+}
+@media screen and (max-width: 930px) {
+  #error404 .bg-philo {
+    padding-left: 100px;
   }
 }
 @media screen and (max-width: 740px) {
@@ -160,14 +175,20 @@ header .logo {
     background-position: 10px bottom;
   }
 }
+@media screen and (max-width: 740px) {
+  #error404 .bg-philo {
+    padding-left: 15px;
+    background-image: none;
+  }
+}
 @media screen and (max-width: 550px) {
-  #philosophie .bg-philo {
+  #philosophie, #error404 .bg-philo {
     padding-left: 15px;
     background-image: none;
   }
 }
 @media screen and (max-width: 400px) {
-  #philosophie .bg-philo {
+  #philosophie, #error404 .bg-philo {
     padding-top: 40px;
   }
 }
