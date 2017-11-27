@@ -6,6 +6,8 @@ output:
     self-contained: false
     toc: true
     theme: flatly
+    includes:
+      in_header: piwik.html
 ---
 
 <style media="screen" type="text/css">
