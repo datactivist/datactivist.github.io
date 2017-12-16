@@ -361,14 +361,14 @@ header .logo {
   }
 }
 #whoarewe .bg-who {
-  width: 100%;
+  width: 47%;
   background-color: #e5555c;
   background-image: url(../img/bg-who.png);
   -webkit-background-size: 195px;
   background-size: 195px;
   background-position: 80% 101%;
   background-repeat: no-repeat;
-  height: 300px;
+  height: 1495px;
   position: relative;
 }
 
