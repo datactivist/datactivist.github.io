@@ -38,6 +38,8 @@ header .logo {
   background-size: 240px;
   background-position: center center;
   background-repeat: no-repeat;
+  text-indent: -9999px;
+  display:block;
 }
 
 @media screen and (max-width: 992px) {
