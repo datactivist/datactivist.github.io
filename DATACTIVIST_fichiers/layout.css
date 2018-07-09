@@ -52,7 +52,7 @@ header .logo {
     text-align: center;
   }
 }
-#open-data, #mentionslegales {
+#open-data, #mentionslegales, #salondata {
   background-color: #fef1eb;
   padding: 150px 0;
   overflow: hidden;
@@ -71,7 +71,7 @@ header .logo {
   margin: 0;
 }
 
-#mentionslegales {
+#mentionslegales, #salondata {
   text-align: justify;
   p {
     padding-bottom: 90px;
@@ -82,7 +82,19 @@ header .logo {
   }
 }
 
-#open-data h1, #mentionslegales h1 {
+#salondata {
+  text-align: justify;
+  p {
+    padding-bottom: 90px;
+  }
+  .container {
+    max-width: 100%;
+    width: 900px;
+  }
+}
+
+
+#open-data h1, #mentionslegales h1, #salondata h1 {
   font-weight: bold;
   color: #1b3540;
   margin-top: 50px;
@@ -98,14 +110,20 @@ header .logo {
   font-weight: 800;
   color: #e5555c;
 }
+
+#salondata h1 strong {
+  font-weight: 800;
+  color: #e5555c;
+}
+
 @media screen and (max-width: 400px) {
-  #open-data h1, #mentionslegales h1 {
+  #open-data h1, #mentionslegales h1, #salondata h1 {
     padding: 0 15px;
     margin-top: 0;
   }
 }
 @media screen and (max-width: 400px) {
-  #open-data, #mentionslegales {
+  #open-data, #mentionslegales, #salondata {
     padding: 60px 0;
     width: 900px;
   }
