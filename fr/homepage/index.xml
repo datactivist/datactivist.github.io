@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepages on Datactivist</title>
+    <link>https://datactivist.coop/fr/homepage/</link>
+    <description>Recent content in Homepages on Datactivist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_FR</language>
+    <lastBuildDate>Mon, 17 Sep 2018 16:37:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://datactivist.coop/fr/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We open data, we make them usefull</title>
+      <link>https://datactivist.coop/fr/homepage/baseline/</link>
+      <pubDate>Mon, 17 Sep 2018 16:37:24 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/homepage/baseline/</guid>
+      <description> We open data, we make them useful </description>
+    </item>
+    
+    <item>
+      <title>Qui Sommes Nous ?</title>
+      <link>https://datactivist.coop/fr/homepage/qui-sommes-nous/</link>
+      <pubDate>Mon, 17 Sep 2018 16:36:31 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/homepage/qui-sommes-nous/</guid>
+      <description>Datactivist est une société coopérative et participative qui se donne pour mission d’ouvrir les données et de les rendre utiles et utilisées.
+Nous positionnant à toutes les étapes du travail d’ouverture et de réutilisation des données, Datactivist travaille tant avec les producteurs de données qu’avec les réutilisateurs.
+Notre mission : réduire les asymétries d&amp;rsquo;information et permettre à chacun de s’approprier les données, sans naïveté mais sans pessimisme.</description>
+    </item>
+    
+    <item>
+      <title>Notre Offre</title>
+      <link>https://datactivist.coop/fr/homepage/notre-offre/</link>
+      <pubDate>Mon, 17 Sep 2018 16:36:50 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/homepage/notre-offre/</guid>
+      <description>Nous pouvons vous aider à :</description>
+    </item>
+    
+    <item>
+      <title>Nos Clients</title>
+      <link>https://datactivist.coop/fr/homepage/nos-clients/</link>
+      <pubDate>Mon, 17 Sep 2018 16:37:04 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/homepage/nos-clients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Témoignages</title>
+      <link>https://datactivist.coop/fr/homepage/temoignages/</link>
+      <pubDate>Mon, 17 Sep 2018 16:37:16 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/homepage/temoignages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actualités</title>
+      <link>https://datactivist.coop/fr/homepage/actualites/</link>
+      <pubDate>Mon, 17 Sep 2018 16:37:24 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/homepage/actualites/</guid>
+      <description>🎂5 octobre 2018 : nous fêtons notre deuxième anniversaire lors de la Data Literacy Conference. Rejoignez nous ! https://datactivist.typeform.com/to/h6usgj</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Datactivist</title>
+    <link>https://datactivist.coop/fr/projects/</link>
+    <description>Recent content in Projects on Datactivist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_FR</language>
+    
+	<atom:link href="https://datactivist.coop/fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catégorie 1</title>
+      <link>https://datactivist.coop/fr/projects/cat1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/cat1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catégorie 2</title>
+      <link>https://datactivist.coop/fr/projects/cat2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/cat2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catégorie 3</title>
+      <link>https://datactivist.coop/fr/projects/cat3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/cat3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catégorie 4</title>
+      <link>https://datactivist.coop/fr/projects/cat4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/cat4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

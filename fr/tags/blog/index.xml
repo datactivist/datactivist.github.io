@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billet de blog on Datactivist</title>
+    <link>https://datactivist.coop/fr/tags/blog/</link>
+    <description>Recent content in Billet de blog on Datactivist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_FR</language>
+    
+	<atom:link href="https://datactivist.coop/fr/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

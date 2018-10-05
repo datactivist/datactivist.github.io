@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>À propos on Datactivist</title>
+    <link>https://datactivist.coop/fr/a-propos/</link>
+    <description>Recent content in À propos on Datactivist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_FR</language>
+    <lastBuildDate>Mon, 17 Sep 2018 16:32:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://datactivist.coop/fr/a-propos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notre Mission</title>
+      <link>https://datactivist.coop/fr/a-propos/notre-mission/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:24 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/a-propos/notre-mission/</guid>
+      <description>Les recherches en sciences sociales des fondateurs de Datactivist ont nourri une conviction : il est essentiel de placer les usagers au coeur des politiques d’open data. Dans sa thèse de doctorat, Samuel Goëta a montré que les données publiées sur les portails open data répondent souvent à une logique de l&amp;rsquo;offre : les agents dans les administrations choisissent quelles données sont ouvertes et comment elles seront publiées sans prendre en compte les besoins des usagers des données.</description>
+    </item>
+    
+    <item>
+      <title>Nos Valeurs</title>
+      <link>https://datactivist.coop/fr/a-propos/nos-valeurs/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:30 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/a-propos/nos-valeurs/</guid>
+      <description> Nos Valeurs Notre nom est le témoignage des valeurs qui nous guident : </description>
+    </item>
+    
+    <item>
+      <title>Notre équipe</title>
+      <link>https://datactivist.coop/fr/a-propos/lequipe/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/a-propos/lequipe/</guid>
+      <description>Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.</description>
+    </item>
+    
+  </channel>
+</rss>
