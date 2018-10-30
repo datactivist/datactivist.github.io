@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://datactivist.coop/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2018-09-17T16:37:24+02:00</lastmod>
+	   	<loc>https://datactivist.coop/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://datactivist.coop/en/sitemap.xml</loc>
+	   	<loc>https://datactivist.coop/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2018-09-17T16:37:24+02:00</lastmod>
 		
 	</sitemap>
 	
