@@ -11,38 +11,38 @@
     
     
     <item>
-      <title>Catégorie 1</title>
-      <link>https://datactivist.coop/fr/projects/cat1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/projects/cat1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Catégorie 2</title>
-      <link>https://datactivist.coop/fr/projects/cat2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/projects/cat2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Catégorie 3</title>
-      <link>https://datactivist.coop/fr/projects/cat3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/projects/cat3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Catégorie 4</title>
-      <link>https://datactivist.coop/fr/projects/cat4/</link>
+      <link>https://datactivist.coop/fr/projects/organisation-internationale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datactivist.coop/fr/projects/cat4/</guid>
+      <guid>https://datactivist.coop/fr/projects/organisation-internationale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secteur privé</title>
+      <link>https://datactivist.coop/fr/projects/secteur-prive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/secteur-prive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secteur public</title>
+      <link>https://datactivist.coop/fr/projects/public/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Société civile</title>
+      <link>https://datactivist.coop/fr/projects/societe-civile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/societe-civile/</guid>
       <description></description>
     </item>
     

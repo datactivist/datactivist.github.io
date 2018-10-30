@@ -10,5 +10,32 @@
 	<atom:link href="https://datactivist.coop/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Billet de blog</title>
+      <link>https://datactivist.coop/fr/tags/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Présentation</title>
+      <link>https://datactivist.coop/fr/tags/prez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/tags/prez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://datactivist.coop/fr/tags/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/tags/publication/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

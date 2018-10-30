@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="8px" viewBox="0 0 35 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>white-dotted-arrow</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="white-dotted-arrow" sketch:type="MSLayerGroup" fill="#FFFFFF">
+            <path d="M1.557,4.667 L1.057,4.667 C0.505,4.667 0.057,4.219 0.057,3.666 C0.057,3.114 0.505,2.667 1.057,2.667 L1.557,2.667 C2.109,2.667 2.557,3.114 2.557,3.666 C2.557,4.219 2.109,4.667 1.557,4.667" id="Fill-1" sketch:type="MSShapeGroup"></path>
+            <path d="M24.993,4.667 L24.125,4.667 C23.572,4.667 23.125,4.219 23.125,3.666 C23.125,3.114 23.572,2.667 24.125,2.667 L24.993,2.667 C25.546,2.667 25.993,3.114 25.993,3.666 C25.993,4.219 25.546,4.667 24.993,4.667 L24.993,4.667 Z M17.182,4.667 L16.313,4.667 C15.761,4.667 15.313,4.219 15.313,3.666 C15.313,3.114 15.761,2.667 16.313,2.667 L17.182,2.667 C17.734,2.667 18.182,3.114 18.182,3.666 C18.182,4.219 17.734,4.667 17.182,4.667 L17.182,4.667 Z M9.37,4.667 L8.501,4.667 C7.949,4.667 7.501,4.219 7.501,3.666 C7.501,3.114 7.949,2.667 8.501,2.667 L9.37,2.667 C9.922,2.667 10.37,3.114 10.37,3.666 C10.37,4.219 9.922,4.667 9.37,4.667 L9.37,4.667 Z" id="Fill-2" sketch:type="MSShapeGroup"></path>
+            <path d="M31.848,3.667 L28.455,7.057 L31.334,7.057 L34.724,3.667 L31.334,0.276 L28.455,0.276 L31.848,3.667" id="Fill-3" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
