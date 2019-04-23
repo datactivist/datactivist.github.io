@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSE on Datactivist</title>
+    <link>https://datactivist.coop/fr/rse/</link>
+    <description>Recent content in RSE on Datactivist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_FR</language>
+    <lastBuildDate>Mon, 17 Sep 2018 16:32:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://datactivist.coop/fr/rse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La responsabilité sociale et environnementale</title>
+      <link>https://datactivist.coop/fr/rse/la-rse/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:24 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/rse/la-rse/</guid>
+      <description>Conformes à nos valeurs, nous mettons en place des mesures de responsabilité sociale et environnementale.</description>
+    </item>
+    
+    <item>
+      <title>Nos Actions</title>
+      <link>https://datactivist.coop/fr/rse/nos-actions/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:30 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/rse/nos-actions/</guid>
+      <description> Nos Actions Notre nom est le témoignage des valeurs qui nous guident : </description>
+    </item>
+    
+    <item>
+      <title>En savoir plus</title>
+      <link>https://datactivist.coop/fr/rse/ressources/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/rse/ressources/</guid>
+      <description>Dans l&amp;rsquo;esprit de l&amp;rsquo;open data, nous partageons avec vous les textes, ressources et documents qui nous ont guidé dans notre démarche.</description>
+    </item>
+    
+  </channel>
+</rss>
