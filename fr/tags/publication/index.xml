@@ -6,9 +6,19 @@
     <description>Recent content in Publication on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
+    <lastBuildDate>Mon, 17 Sep 2018 16:35:39 +0200</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Construire un jeu de données GTFS: un guide complet pour l&#39;open data des transports</title>
+      <link>https://datactivist.coop/fr/ressources/ressource5/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource5/</guid>
+      <description>Cette documentation a pour objet la construction d&amp;rsquo;un jeu de données au format GTFS (General Transit Feed Specification), à partir de 0. Elle détaille les étapes nécessaires à l&amp;rsquo;identification, la collecte, la standardisation, l&amp;rsquo;ouverture en open data et l&amp;rsquo;utilisation de données de transport.</description>
+    </item>
     
   </channel>
 </rss>

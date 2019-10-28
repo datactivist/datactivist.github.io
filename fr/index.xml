@@ -21,6 +21,33 @@
     </item>
     
     <item>
+      <title>Construire un jeu de données GTFS: un guide complet pour l&#39;open data des transports</title>
+      <link>https://datactivist.coop/fr/ressources/ressource5/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource5/</guid>
+      <description>Cette documentation a pour objet la construction d&amp;rsquo;un jeu de données au format GTFS (General Transit Feed Specification), à partir de 0. Elle détaille les étapes nécessaires à l&amp;rsquo;identification, la collecte, la standardisation, l&amp;rsquo;ouverture en open data et l&amp;rsquo;utilisation de données de transport.</description>
+    </item>
+    
+    <item>
+      <title>Ouvrir, ce n’est pas juste partager des données : simple, basique</title>
+      <link>https://datactivist.coop/fr/ressources/ressource6/</link>
+      <pubDate>Wed, 29 Aug 2018 16:35:39 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource6/</guid>
+      <description>Plutôt que de redéfinir les principes de l’open data, ce billet défend l&amp;rsquo;idée qu&amp;rsquo;il d’y répondre et de clarifier un point : ouvrir et partager des données sont deux choses différentes.</description>
+    </item>
+    
+    <item>
+      <title>L’open data, pas assez sexy pour la smart city ?</title>
+      <link>https://datactivist.coop/fr/ressources/ressource3/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource3/</guid>
+      <description>Quel rôle pour l’open data au sein de la ville intelligente ? Quelques enseignements tirés de notre voyage d’étude au Canada.</description>
+    </item>
+    
+    <item>
       <title>Qui Sommes Nous ?</title>
       <link>https://datactivist.coop/fr/homepage/qui-sommes-nous/</link>
       <pubDate>Mon, 17 Sep 2018 16:36:31 +0200</pubDate>
@@ -29,15 +56,6 @@
       <description>Datactivist est une société coopérative et participative qui se donne pour mission d’ouvrir les données et de les rendre utiles et utilisées.
 Nous positionnant à toutes les étapes du travail d’ouverture et de réutilisation des données, Datactivist travaille tant avec les producteurs de données qu’avec les réutilisateurs.
 Notre mission : réduire les asymétries d&amp;rsquo;information et permettre à chacun de s’approprier les données, sans naïveté mais sans pessimisme.</description>
-    </item>
-    
-    <item>
-      <title>La responsabilité sociale et environnementale</title>
-      <link>https://datactivist.coop/fr/rse/la-rse/</link>
-      <pubDate>Mon, 17 Sep 2018 16:35:24 +0200</pubDate>
-      
-      <guid>https://datactivist.coop/fr/rse/la-rse/</guid>
-      <description>Conformes à nos valeurs, nous mettons en place des mesures de responsabilité sociale et environnementale.</description>
     </item>
     
     <item>
@@ -50,21 +68,21 @@ Notre mission : réduire les asymétries d&amp;rsquo;information et permettre à
     </item>
     
     <item>
+      <title>Open Data Canvas (ODC) : un cadre de travail collaboratif pour faciliter l’ouverture et l’utilisation des données</title>
+      <link>https://datactivist.coop/fr/ressources/ressource2/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource2/</guid>
+      <description>Opendatacanvas.org propose un ensemble cohérent de ressources prêtes à l’usage et des principes, tous deux gouvernés par la communauté afin d&amp;rsquo;assister un large ensemble d’opérations concrètes menées au quotidien par les responsables de projets open data, les producteurs et les réutilisateurs de données.</description>
+    </item>
+    
+    <item>
       <title>Notre Offre</title>
       <link>https://datactivist.coop/fr/homepage/notre-offre/</link>
       <pubDate>Mon, 17 Sep 2018 16:36:50 +0200</pubDate>
       
       <guid>https://datactivist.coop/fr/homepage/notre-offre/</guid>
       <description>Nous pouvons vous aider à :</description>
-    </item>
-    
-    <item>
-      <title>Nos Actions</title>
-      <link>https://datactivist.coop/fr/rse/nos-actions/</link>
-      <pubDate>Mon, 17 Sep 2018 16:35:30 +0200</pubDate>
-      
-      <guid>https://datactivist.coop/fr/rse/nos-actions/</guid>
-      <description> Nos Actions Notre nom est le témoignage des valeurs qui nous guident : </description>
     </item>
     
     <item>
@@ -86,21 +104,21 @@ Notre mission : réduire les asymétries d&amp;rsquo;information et permettre à
     </item>
     
     <item>
-      <title>En savoir plus</title>
-      <link>https://datactivist.coop/fr/rse/ressources/</link>
-      <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
-      
-      <guid>https://datactivist.coop/fr/rse/ressources/</guid>
-      <description>Dans l&amp;rsquo;esprit de l&amp;rsquo;open data, nous partageons avec vous les textes, ressources et documents qui nous ont guidé dans notre démarche.</description>
-    </item>
-    
-    <item>
       <title>Notre équipe</title>
       <link>https://datactivist.coop/fr/a-propos/lequipe/</link>
       <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
       
       <guid>https://datactivist.coop/fr/a-propos/lequipe/</guid>
       <description>Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.</description>
+    </item>
+    
+    <item>
+      <title>Commande publique ouverte locale : une initiative mondiale pour partager les bonnes pratiques et valoriser l’entraide</title>
+      <link>https://datactivist.coop/fr/ressources/ressource1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource1/</guid>
+      <description>L’initiative pour une commande publique ouverte locale, LOCI, cherche à valoriser les initiatives locales en matière de commande publique ouverte. Focus sur quelques exemples et les engagements de la ville de Paris pour approfondir l&amp;rsquo;ouverture des données de la commande publique.</description>
     </item>
     
     <item>
@@ -119,6 +137,15 @@ Notre mission : réduire les asymétries d&amp;rsquo;information et permettre à
       
       <guid>https://datactivist.coop/fr/homepage/actualites/</guid>
       <description>📆 28 avril 2019 : nous vous donnons rendez-vous à Bruxelles au hackathon d&amp;rsquo;Infrabel. Plus d&amp;rsquo;infos : https://www.infrabel.be/fr/open-data-hackathon</description>
+    </item>
+    
+    <item>
+      <title>Comment améliorer les cartographies de données ? Enseignements d’un atelier sur les données de santé au travail</title>
+      <link>https://datactivist.coop/fr/ressources/ressource4/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource4/</guid>
+      <description>Datactivist a animé un atelier pour conduire des diagnostics territoriaux en s&amp;rsquo;appuyant sur la cartographie des données réalisée par l’ANSES avec l’appui d’Etalab.</description>
     </item>
     
   </channel>

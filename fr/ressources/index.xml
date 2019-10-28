@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Billet de blog on Datactivist</title>
-    <link>https://datactivist.coop/fr/tags/blog/</link>
-    <description>Recent content in Billet de blog on Datactivist</description>
+    <title>Quelques ressources on Datactivist</title>
+    <link>https://datactivist.coop/fr/ressources/</link>
+    <description>Recent content in Quelques ressources on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Wed, 29 Aug 2018 16:35:39 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Sep 2018 16:33:19 +0200</lastBuildDate>
     
-	<atom:link href="https://datactivist.coop/fr/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datactivist.coop/fr/ressources/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Construire un jeu de données GTFS: un guide complet pour l&#39;open data des transports</title>
+      <link>https://datactivist.coop/fr/ressources/ressource5/</link>
+      <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource5/</guid>
+      <description>Cette documentation a pour objet la construction d&amp;rsquo;un jeu de données au format GTFS (General Transit Feed Specification), à partir de 0. Elle détaille les étapes nécessaires à l&amp;rsquo;identification, la collecte, la standardisation, l&amp;rsquo;ouverture en open data et l&amp;rsquo;utilisation de données de transport.</description>
+    </item>
     
     <item>
       <title>Ouvrir, ce n’est pas juste partager des données : simple, basique</title>
