@@ -6,9 +6,19 @@
     <description>Recent content in Projects on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cat3</title>
+      <link>https://datactivist.coop/fr/projects/cat3/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/projects/cat3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Catégorie 4</title>
