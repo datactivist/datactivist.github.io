@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#qui sommes nous</loc>
+    <loc>https://datactivist.coop//fr/#qui_sommes_nous</loc>
     <lastmod>2018-09-17T16:36:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#notre mission</loc>
+    <loc>https://datactivist.coop//fr/#notre_mission</loc>
     <lastmod>2018-09-17T16:35:24+02:00</lastmod>
   </url>
   
@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#notre offre</loc>
+    <loc>https://datactivist.coop//fr/#notre_offre</loc>
     <lastmod>2018-09-17T16:36:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#nos valeurs</loc>
+    <loc>https://datactivist.coop//fr/#nos_valeurs</loc>
     <lastmod>2018-09-17T16:35:30+02:00</lastmod>
   </url>
   
@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#nos clients</loc>
+    <loc>https://datactivist.coop//fr/#nos_clients</loc>
     <lastmod>2018-09-17T16:37:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#l&#39;équipe</loc>
+    <loc>https://datactivist.coop//fr/#l_equipe</loc>
     <lastmod>2018-09-17T16:35:39+02:00</lastmod>
   </url>
   
@@ -67,12 +67,12 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#témoignages</loc>
+    <loc>https://datactivist.coop//fr/#temoignages</loc>
     <lastmod>2018-09-17T16:37:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#actualités</loc>
+    <loc>https://datactivist.coop//fr/#actualites</loc>
     <lastmod>2018-09-17T16:37:24+02:00</lastmod>
   </url>
   
@@ -88,6 +88,10 @@
   
   <url>
     <loc>https://datactivist.coop//fr/#_index</loc>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//fr/#_index</loc>
     <lastmod>2018-08-29T16:35:39+02:00</lastmod>
   </url>
   
@@ -98,6 +102,10 @@
   </url>
   
   <url>
+    <loc>https://datactivist.coop//fr/#index</loc>
+  </url>
+  
+  <url>
     <loc>https://datactivist.coop//fr/#_index</loc>
   </url>
   
@@ -108,8 +116,21 @@
   </url>
   
   <url>
+    <loc>https://datactivist.coop//fr/#_index</loc>
+  </url>
+  
+  <url>
     <loc>https://datactivist.coop//fr/#</loc>
     <lastmod>2018-09-17T16:37:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//fr/#_index</loc>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//fr/#</loc>
     <priority>0</priority>
   </url>
   
@@ -138,18 +159,6 @@
     <loc>https://datactivist.coop//fr/#</loc>
     <lastmod>2018-09-17T16:35:39+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://datactivist.coop//fr/#_index</loc>
-  </url>
-  
-  <url>
-    <loc>https://datactivist.coop//fr/#_index</loc>
-  </url>
-  
-  <url>
-    <loc>https://datactivist.coop//fr/#_index</loc>
   </url>
   
   <url>
