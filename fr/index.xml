@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Datactivist</title>
+    <title>Accueil on Datactivist</title>
     <link>https://datactivist.coop/fr/</link>
-    <description>Recent content on Datactivist</description>
+    <description>Recent content in Accueil on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Mon, 17 Sep 2018 16:37:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Sep 2018 14:53:13 +0200</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/index.xml" rel="self" type="application/rss+xml" />
     

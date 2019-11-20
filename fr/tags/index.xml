@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Datactivist</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Wed, 29 Aug 2018 16:35:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,9 @@
     <item>
       <title>Billet de blog</title>
       <link>https://datactivist.coop/fr/tags/blog/</link>
-      <pubDate>Wed, 29 Aug 2018 16:35:39 +0200</pubDate>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://datactivist.coop/fr/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Présentation</title>
-      <link>https://datactivist.coop/fr/tags/prez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/tags/prez/</guid>
       <description></description>
     </item>
     
@@ -35,6 +26,15 @@
       <pubDate>Mon, 17 Sep 2018 16:35:39 +0200</pubDate>
       
       <guid>https://datactivist.coop/fr/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Présentation</title>
+      <link>https://datactivist.coop/fr/tags/prez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/tags/prez/</guid>
       <description></description>
     </item>
     
