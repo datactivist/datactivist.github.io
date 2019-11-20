@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://datactivist.coop//en/#projet_hackathon_accra</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://datactivist.coop//en/#nos_clients</loc>
     <lastmod>2018-09-17T16:37:04+02:00</lastmod>
   </url>
@@ -53,9 +58,11 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//en/#</loc>
-    <lastmod>2018-09-17T16:37:24+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://datactivist.coop//en/#_index</loc>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//en/#_index</loc>
   </url>
   
   <url>
@@ -66,6 +73,32 @@
   
   <url>
     <loc>https://datactivist.coop//en/#</loc>
+    <lastmod>2018-09-17T16:37:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//en/#_index</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//en/#_index</loc>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//en/#_index</loc>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//en/#</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//en/#</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
