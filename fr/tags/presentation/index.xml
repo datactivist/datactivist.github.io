@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>présentation on Datactivist</title>
+    <link>https://datactivist.coop/fr/tags/presentation/</link>
+    <description>Recent content in présentation on Datactivist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_FR</language>
+    <lastBuildDate>Wed, 27 Nov 2019 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://datactivist.coop/fr/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Factualité / Factfullness ou comment corriger ses mauvaises intuitions par les données</title>
+      <link>https://datactivist.coop/fr/ressources/commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-valoriser-l-entraide/</link>
+      <pubDate>Wed, 27 Nov 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-valoriser-l-entraide/</guid>
+      <description>Notre monde est traversé par des mauvaises intuitions qui ne reposant sur aucun élément factuel. Le médecin et statisticien Hans Rosling a compilé dans Factfullness les 10 mauvais réflexes qui tordent notre vision du monde et 10 méthodes pour les contrer en utilisant sa philosophie des faits : la factualité ! Une approche que nous vous proposons d&#39;introduire, exemples et exercice à l&#39;appui dans cette présentation</description>
+    </item>
+    
+  </channel>
+</rss>
