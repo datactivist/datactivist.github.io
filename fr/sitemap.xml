@@ -71,6 +71,11 @@
   </url>
   
   <url>
+    <loc>https://datactivist.coop//fr/#commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-valoriser-l-entraide-1</loc>
+    <lastmod>2019-04-18T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://datactivist.coop//fr/#nos_clients</loc>
     <lastmod>2018-09-17T16:37:04+02:00</lastmod>
   </url>
@@ -109,7 +114,7 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#</loc>
+    <loc>https://datactivist.coop//fr/#_index</loc>
     <lastmod>2019-11-27T23:00:00+00:00</lastmod>
   </url>
   
@@ -195,10 +200,6 @@
   
   <url>
     <loc>https://datactivist.coop//fr/#</loc>
-  </url>
-  
-  <url>
-    <loc>https://datactivist.coop//fr/#_index</loc>
   </url>
   
 </urlset>
