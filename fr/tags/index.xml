@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Wed, 27 Nov 2019 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Billet de blog</title>
+      <link>https://datactivist.coop/fr/tags/blog/</link>
+      <pubDate>Tue, 03 Dec 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/tags/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Présentation</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 27 Nov 2019 23:00:00 +0000</pubDate>
       
       <guid>https://datactivist.coop/fr/tags/prez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Billet de blog</title>
-      <link>https://datactivist.coop/fr/tags/blog/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/tags/blog/</guid>
       <description></description>
     </item>
     
