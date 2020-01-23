@@ -36,7 +36,7 @@ Les sociétés coopératives ouvrières de production (SCOP) sont des entreprise
       <pubDate>Mon, 17 Sep 2018 14:35:39 +0000</pubDate>
       
       <guid>https://datactivist.coop/fr/references/occitanie/</guid>
-      <description>Objectifs  Faire de la région Occitanie un leader national et international de l&#39;ouverture des données Accompagner l&#39;organisation dans la transition vers l&#39;open data par défaut Faire de la région le chef de file de l&#39;ouverture des données territoriales  Approche adoptée  Sensibilisation à l&#39;open data en comité directeur, accompagnement à la désignation des référents open data Définition collective d&#39;une charte régionale de l&#39;open data Accompagnement stratégique vers une politique régionale exemplaire d&#39;ouverture des données Cartographie &amp;ldquo;grosses mailles&amp;rdquo; des données ouvrables par la région Entretiens avec les producteurs de données et les référents Production d&#39;éléments de communication Animation interne de l&#39;ouverture des données Benchmark des solutions de portail   Résultats obtenus  Mars 2018 : premières retombées presse au démarrage de la mission dans la Gazette des Communes du fait de l’ambition forte du projet Octobre 2018 : constitution d&#39;un réseau interne d’une quarantaine de correspondants, sensibilisation de toutes les directions à l&#39;open data, un portail lancé avec plus de 120 jeux de données Novembre 2019 : remise d&#39;un trophée open data pour les territoires pour l&#39;accompagnement des collectivités locales de la région dans l’ouverture   </description>
+      <description>Objectifs  Faire de la région Occitanie un leader national et international de l&#39;ouverture des données Accompagner l&#39;organisation dans la transition vers l&#39;open data par défaut Faire de la région le chef de file de l&#39;ouverture des données territoriales  Approche adoptée  Sensibilisation à l&#39;open data en comité directeur, accompagnement à la désignation des référents open data Définition collective d&#39;une charte régionale de l&#39;open data Accompagnement stratégique vers une politique régionale exemplaire d&#39;ouverture des données Cartographie &amp;ldquo;grosses mailles&amp;rdquo; des données ouvrables par la région Entretiens avec les producteurs de données et les référents Production d&#39;éléments de communication Animation interne de l&#39;ouverture des données Benchmark des solutions de portail  Résultats obtenus  Mars 2018 : premières retombées presse au démarrage de la mission dans la Gazette des Communes du fait de l’ambition forte du projet Octobre 2018 : constitution d&#39;un réseau interne d’une quarantaine de correspondants, sensibilisation de toutes les directions à l&#39;open data, un portail lancé avec plus de 120 jeux de données Novembre 2019 : remise d&#39;un trophée open data pour les territoires pour l&#39;accompagnement des collectivités locales de la région dans l’ouverture  </description>
     </item>
     
     <item>
@@ -165,6 +165,15 @@ Dans le cadre de son engagement à soutenir l’innovation numérique en tant qu
     </item>
     
     <item>
+      <title>Ces dix choses incroyables qui n’existeraient pas sans l’open data</title>
+      <link>https://datactivist.coop/fr/ressources/ces-dix-choses-incroyables-qui-n-existeraient-pas-sans-l-open-data/</link>
+      <pubDate>Sun, 23 Jun 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ces-dix-choses-incroyables-qui-n-existeraient-pas-sans-l-open-data/</guid>
+      <description>Lors de la Data Week à Marseille, Joël Gombin a présenté 10 choses incroyables qui n&#39;existeraient pas sans l&#39;open data. Chasser des Pokémon, connaitre la pollution autour de son école, éviter des produits trop gras ou sucrés, prendre son bus à temps…Autant d&#39;usages permis par les données ouvertes !</description>
+    </item>
+    
+    <item>
       <title>Guide d’organisation d’un sprint data</title>
       <link>https://datactivist.coop/fr/ressources/guide-d-organisation-d-un-sprint-data/</link>
       <pubDate>Sat, 04 May 2019 22:00:00 +0000</pubDate>
@@ -198,29 +207,6 @@ Dans le cadre de son engagement à soutenir l’innovation numérique en tant qu
       
       <guid>https://datactivist.coop/fr/homepage/nos_clients/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Notre catalogue de formation</title>
-      <link>https://datactivist.coop/fr/references/forum7/</link>
-      <pubDate>Mon, 17 Sep 2018 14:35:39 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/references/forum7/</guid>
-      <description>Data Literacy 🇫🇷/ Formation à la culture générale des données
-https://datactivist.coop/dataliteracy/#2
-Dataviz 🇫🇷/ Visualiser les chiffres : rigueur - lecture - message
-https://datactivist.coop/ensad-dataviz/#1
-🇫🇷/ Panorama des formats et des outils de data visualisation
-https://datactivist.coop/dataweek/dataviz/#1
-Datascience 🇫🇷/ Les essentiels de la data science
-R : le couteau suisse des données
-https://datactivist.coop/numa_R/jour1.html#1
-🇺🇸🇬🇧/ R for beginners (in English)
-https://sylvainlapoix.github.io/scpo_Rnoob/slides/SciencesPo_R4Beginner.html
-🇺🇸🇬🇧/ R and data science for public policies
-Advanced session
-https://joelgombin.github.io/scpocodingweek/slides/#1
-Open Gov 🇫🇷/ Guide des bonnes pratiques et expériences réussies du gouvernement ouvert en Afrique francophone</description>
     </item>
     
     <item>
@@ -320,6 +306,26 @@ Open Gov 🇫🇷/ Guide des bonnes pratiques et expériences réussies du gouve
       
       <guid>https://datactivist.coop/fr/ressources/ressource4/</guid>
       <description>Datactivist a animé un atelier pour conduire des diagnostics territoriaux en s&#39;appuyant sur la cartographie des données réalisée par l’ANSES avec l’appui d’Etalab.</description>
+    </item>
+    
+    <item>
+      <title>Recherche et cartographie de données de la mobilité pour RATP Dev</title>
+      <link>https://datactivist.coop/fr/references/recherche-et-cartographie-de-donnees-de-la-mobilite-pour-ratp-dev/</link>
+      <pubDate>Tue, 14 Jan 2020 03:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/recherche-et-cartographie-de-donnees-de-la-mobilite-pour-ratp-dev/</guid>
+      <description>Contexte RATP Dev Développe l’offre de RATP en Région Île de France et dans le monde. La donnée est un outil indispensable pour comprendre les mobilités
+RATP Dev a pour mission de concevoir des offres de transports qui correspondent au mieux à la demande en mobilité. Dans un contexte où le transport de personnes est en forte mutation (nouveaux acteurs), et où les données produites sont de plus en plus volumineuses et variées, RATP Dev a souhaité disposer d’une cartographie précise de données à mobiliser en Île de France.</description>
+    </item>
+    
+    <item>
+      <title>Construction de tableaux de bord pour la ville d&#39;Issy les Moulineaux</title>
+      <link>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux/</guid>
+      <description>Contexte   Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données.
+  Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps.</description>
     </item>
     
   </channel>
