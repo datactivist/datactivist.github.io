@@ -6,7 +6,7 @@
     <description>Recent content in Formation on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Mon, 17 Sep 2018 14:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/projects/formation/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>Notre catalogue de formation</title>
       <link>https://datactivist.coop/fr/references/forum7/</link>
-      <pubDate>Mon, 17 Sep 2018 14:35:39 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2020 03:00:00 +0000</pubDate>
       
       <guid>https://datactivist.coop/fr/references/forum7/</guid>
-      <description>Data Literacy 🇫🇷/ Formation à la culture générale des données
+      <description>Les productions de Datactivist sont librement réutilisables selon les termes de la licence Creative Commons 4.0 BY-SA.
+Data Literacy 🇫🇷/ Formation à la culture générale des données
 https://datactivist.coop/dataliteracy/#2
 Dataviz 🇫🇷/ Visualiser les chiffres : rigueur - lecture - message
 https://datactivist.coop/ensad-dataviz/#1
@@ -26,12 +27,7 @@ https://datactivist.coop/dataweek/dataviz/#1
 Datascience 🇫🇷/ Les essentiels de la data science
 R : le couteau suisse des données
 https://datactivist.coop/numa_R/jour1.html#1
-🇺🇸🇬🇧/ R for beginners (in English)
-https://sylvainlapoix.github.io/scpo_Rnoob/slides/SciencesPo_R4Beginner.html
-🇺🇸🇬🇧/ R and data science for public policies
-Advanced session
-https://joelgombin.github.io/scpocodingweek/slides/#1
-Open Gov 🇫🇷/ Guide des bonnes pratiques et expériences réussies du gouvernement ouvert en Afrique francophone</description>
+🇺🇸🇬🇧/ R for beginners (in English)</description>
     </item>
     
   </channel>
