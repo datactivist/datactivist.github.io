@@ -71,11 +71,6 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#forum7</loc>
-    <lastmod>2020-01-17T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datactivist.coop//fr/#cartographier-dans-openstreetmap-avec-les-fieldpapers</loc>
     <lastmod>2019-12-03T23:00:00+00:00</lastmod>
   </url>
@@ -190,16 +185,6 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#</loc>
-    <lastmod>2020-01-17T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datactivist.coop//fr/#</loc>
-    <lastmod>2020-01-17T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datactivist.coop//fr/#_index</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url>
@@ -211,6 +196,11 @@
   
   <url>
     <loc>https://datactivist.coop//fr/#_index</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//fr/#</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
