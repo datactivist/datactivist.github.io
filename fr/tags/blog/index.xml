@@ -6,7 +6,7 @@
     <description>Recent content in Billet de blog on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Tue, 03 Dec 2019 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,15 @@
       
       <guid>https://datactivist.coop/fr/ressources/ressource2/</guid>
       <description>Opendatacanvas.org propose un ensemble cohérent de ressources prêtes à l’usage et des principes, tous deux gouvernés par la communauté afin d&amp;rsquo;assister un large ensemble d’opérations concrètes menées au quotidien par les responsables de projets open data, les producteurs et les réutilisateurs de données.</description>
+    </item>
+    
+    <item>
+      <title>Archivistes, professionnels de l’open data : nous n’avons pas le même maillot mais nous avons la même passion</title>
+      <link>https://datactivist.coop/fr/ressources/archivistes-professionnels-de-l-open-data/</link>
+      <pubDate>Sun, 07 Jun 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/archivistes-professionnels-de-l-open-data/</guid>
+      <description>Après un parcours en collectivités territoriales sur des projets d’archivage électronique avant de se diriger vers la gouvernance des données, Anne-Laure a choisi pour ce billet de présenter six points communs entre les archives et l’open data.</description>
     </item>
     
     <item>
