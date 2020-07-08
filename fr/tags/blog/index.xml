@@ -6,7 +6,7 @@
     <description>Recent content in Billet de blog on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Sun, 07 Jun 2020 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datactivist.coop/fr/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,15 @@
       
       <guid>https://datactivist.coop/fr/ressources/ressource2/</guid>
       <description>Opendatacanvas.org propose un ensemble cohérent de ressources prêtes à l’usage et des principes, tous deux gouvernés par la communauté afin d&amp;rsquo;assister un large ensemble d’opérations concrètes menées au quotidien par les responsables de projets open data, les producteurs et les réutilisateurs de données.</description>
+    </item>
+    
+    <item>
+      <title>Mieux que des smart cities : des villes numériques ouvertes et humaines !</title>
+      <link>https://datactivist.coop/fr/ressources/mieux-que-des-smart-cities-des-villes-numeriques-ouvertes-et-humaines/</link>
+      <pubDate>Tue, 07 Jul 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/mieux-que-des-smart-cities-des-villes-numeriques-ouvertes-et-humaines/</guid>
+      <description>Dans cette tribune dans La Gazette des Communes, Joël Gombin constate que les projets de smart city sont souvent dépolitisés, relevant “simplement” d’un souci de “bonne gestion”. À quoi pourraient ressembler des politiques de transition numérique des villes, répondant aux enjeux économiques, sociaux et écologiques actuels ?</description>
     </item>
     
     <item>
@@ -117,15 +126,6 @@
       
       <guid>https://datactivist.coop/fr/ressources/7-arguments-pour-convaincre-les-entreprises-d-ouvrir-leurs-donnees/</guid>
       <description>Si Big Data, Data Science et gouvernance des données sont actuellement des termes à la mode au sein des entreprises, “Open Data” est un mot encore rare dans le lexique des entreprises. Pourtant les opportunités liées à l’Open Data sont nombreuses pour les acteurs de la sphère privée.</description>
-    </item>
-    
-    <item>
-      <title>Mieux que des smart cities : des villes numériques ouvertes et humaines !</title>
-      <link>https://datactivist.coop/fr/ressources/mieux-que-des-smart-cities-des-villes-numeriques-ouvertes-et-humaines/</link>
-      <pubDate>Thu, 30 Nov 2017 23:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/ressources/mieux-que-des-smart-cities-des-villes-numeriques-ouvertes-et-humaines/</guid>
-      <description>Dans cette tribune dans La Gazette des Communes, Joël Gombin constate que les projets de smart city sont souvent dépolitisés, relevant “simplement” d’un souci de “bonne gestion”. À quoi pourraient ressembler des politiques de transition numérique des villes, répondant aux enjeux économiques, sociaux et écologiques actuels ?</description>
     </item>
     
     <item>
