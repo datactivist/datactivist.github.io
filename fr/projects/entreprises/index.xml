@@ -5,10 +5,6 @@
     <link>https://datactivist.coop/fr/projects/entreprises/</link>
     <description>Recent content in Entreprises on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr_FR</language>
-    
-	<atom:link href="https://datactivist.coop/fr/projects/entreprises/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr_FR</language><atom:link href="https://datactivist.coop/fr/projects/entreprises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

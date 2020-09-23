@@ -5,10 +5,6 @@
     <link>https://datactivist.coop/fr/projects/administrations_centrales/</link>
     <description>Recent content in Administrations centrales on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr_FR</language>
-    
-	<atom:link href="https://datactivist.coop/fr/projects/administrations_centrales/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr_FR</language><atom:link href="https://datactivist.coop/fr/projects/administrations_centrales/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
