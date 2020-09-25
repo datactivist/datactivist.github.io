@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ministères on Datactivist</title>
+    <link>https://datactivist.coop/fr/projects/ministeres/</link>
+    <description>Recent content in Ministères on Datactivist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_FR</language>
+    <lastBuildDate>Mon, 31 Aug 2020 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/ministeres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formation à l&#39;open data pour les agents du ministère de la Culture</title>
+      <link>https://datactivist.coop/fr/references/former-des-agents-publics-a-l-open-data/</link>
+      <pubDate>Mon, 31 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/former-des-agents-publics-a-l-open-data/</guid>
+      <description>Contexte La formation a permis aux agents du Ministère de la Culture de comprendre l’origine de l’open data, ses grands principes et le cadre juridique actuel. Composé de présentations et d’ateliers, les deux modules de formation d&amp;rsquo;une journée conçus en partenariat avec Stat4Decision mettent en relief l’importance de l’ouverture des données dans la transformation de l’État et présentent des cas issus du domaine de la culture.
+Approche adoptée   Cette action de formation a été déclinée en deux modules de formations d&amp;rsquo;une jorunée adaptés aux besoins des publics.</description>
+    </item>
+    
+  </channel>
+</rss>
