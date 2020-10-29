@@ -61,6 +61,11 @@
   </url>
   
   <url>
+    <loc>https://datactivist.coop//fr/#nettoyer-des-donnees</loc>
+    <lastmod>2020-09-23T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://datactivist.coop//fr/#mieux-que-des-smart-cities-des-villes-numeriques-ouvertes-et-humaines</loc>
     <lastmod>2020-07-07T22:00:00+00:00</lastmod>
   </url>
@@ -102,11 +107,6 @@
   
   <url>
     <loc>https://datactivist.coop//fr/#ces-dix-choses-incroyables-qui-n-existeraient-pas-sans-l-open-data</loc>
-    <lastmod>2019-06-23T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datactivist.coop//fr/#nettoyer-des-donnees</loc>
     <lastmod>2019-06-23T22:00:00+00:00</lastmod>
   </url>
   
@@ -191,6 +191,16 @@
   
   <url>
     <loc>https://datactivist.coop//fr/#_index</loc>
+    <lastmod>2020-09-23T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//fr/#</loc>
+    <lastmod>2020-09-23T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datactivist.coop//fr/#_index</loc>
     <lastmod>2020-08-31T22:00:00+00:00</lastmod>
   </url>
   
@@ -210,18 +220,8 @@
   </url>
   
   <url>
-    <loc>https://datactivist.coop//fr/#</loc>
-    <lastmod>2020-07-07T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datactivist.coop//fr/#_index</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datactivist.coop//fr/#_index</loc>
-    <lastmod>2019-11-27T23:00:00+00:00</lastmod>
   </url>
   
   <url>
