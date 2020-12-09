@@ -124,15 +124,6 @@ Siège social : 7 bis avenue Saint-Jérôme 13100 Aix-en-pProvence</description>
     </item>
     
     <item>
-      <title>Ces 10 choses incroyables qui n&#39;existeraient pas sans l&#39;open data</title>
-      <link>https://datactivist.coop/fr/ressources/ressource0_copie_5/</link>
-      <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://datactivist.coop/fr/ressources/ressource0_copie_5/</guid>
-      <description>Joël Gombin présente pour le Wagon des cas d&amp;rsquo;usage de l&amp;rsquo;open data. Une introduction pédagogique à l&amp;rsquo;open data, dont on peut également récupérer [le support](https://datactivist.coop/lewagon/).</description>
-    </item>
-    
-    <item>
       <title>Nettoyer des données</title>
       <link>https://datactivist.coop/fr/ressources/nettoyer-des-donnees/</link>
       <pubDate>Wed, 23 Sep 2020 22:00:00 +0000</pubDate>
@@ -339,6 +330,15 @@ Dans le cadre de son engagement à soutenir l’innovation numérique en tant qu
       
       <guid>https://datactivist.coop/fr/ressources/ressource1/</guid>
       <description>L’initiative pour une commande publique ouverte locale, LOCI, cherche à valoriser les initiatives locales en matière de commande publique ouverte. Focus sur quelques exemples et les engagements de la ville de Paris pour approfondir l&amp;rsquo;ouverture des données de la commande publique.</description>
+    </item>
+    
+    <item>
+      <title>Ces 10 choses incroyables qui n&#39;existeraient pas sans l&#39;open data</title>
+      <link>https://datactivist.coop/fr/ressources/ressource0_copie_5/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/ressource0_copie_5/</guid>
+      <description>Joël Gombin présente pour le Wagon des cas d&amp;rsquo;usage de l&amp;rsquo;open data. Une introduction pédagogique à l&amp;rsquo;open data, dont on peut également récupérer [le support](https://datactivist.coop/lewagon/).</description>
     </item>
     
     <item>
