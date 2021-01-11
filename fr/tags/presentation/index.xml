@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>présentation on Datactivist</title>
+    <title>Présentation on Datactivist</title>
     <link>https://datactivist.coop/fr/tags/presentation/</link>
-    <description>Recent content in présentation on Datactivist</description>
+    <description>Recent content in Présentation on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
     <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ces 10 choses incroyables qui n&#39;existeraient pas sans l&#39;open data</title>
-      <link>https://datactivist.coop/fr/ressources/ressource0_copie_5/</link>
+      <link>https://datactivist.coop/fr/ressources/lewagon/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
       
-      <guid>https://datactivist.coop/fr/ressources/ressource0_copie_5/</guid>
+      <guid>https://datactivist.coop/fr/ressources/lewagon/</guid>
       <description>Joël Gombin présente pour le Wagon des cas d&amp;rsquo;usage de l&amp;rsquo;open data. Une introduction pédagogique à l&amp;rsquo;open data, dont on peut également récupérer le support.</description>
     </item>
     
