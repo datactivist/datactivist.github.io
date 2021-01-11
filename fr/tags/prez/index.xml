@@ -6,7 +6,16 @@
     <description>Recent content in Présentation on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Wed, 23 Sep 2020 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/prez/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/prez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ces 10 choses incroyables qui n&#39;existeraient pas sans l&#39;open data</title>
+      <link>https://datactivist.coop/fr/ressources/lewagon/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/lewagon/</guid>
+      <description>Joël Gombin présente pour le Wagon des cas d&amp;rsquo;usage de l&amp;rsquo;open data. Une introduction pédagogique à l&amp;rsquo;open data, dont on peut également récupérer le support.</description>
+    </item>
+    
     <item>
       <title>Nettoyer des données</title>
       <link>https://datactivist.coop/fr/ressources/nettoyer-des-donnees/</link>
