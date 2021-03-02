@@ -6,7 +6,7 @@
     <description>Recent content in Collectivités Locales on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Mon, 17 Sep 2018 14:35:39 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/collectivites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2019 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/collectivites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accompagnement de la Région Occitanie sur l&#39;open data et l&#39;animation territoriale</title>
       <link>https://datactivist.coop/fr/references/occitanie/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://datactivist.coop/fr/references/occitanie/</guid>
       <description>Objectifs  Faire de la région Occitanie un leader national et international de l&amp;rsquo;ouverture des données Accompagner l&amp;rsquo;organisation dans la transition vers l&amp;rsquo;open data par défaut Faire de la région le chef de file de l&amp;rsquo;ouverture des données territoriales  Approche adoptée  Sensibilisation à l&amp;rsquo;open data en comité directeur, accompagnement à la désignation des référents open data Définition collective d&amp;rsquo;une charte régionale de l&amp;rsquo;open data Accompagnement stratégique vers une politique régionale exemplaire d&amp;rsquo;ouverture des données Cartographie &amp;ldquo;grosses mailles&amp;rdquo; des données ouvrables par la région Entretiens avec les producteurs de données et les référents Production d&amp;rsquo;éléments de communication Animation interne de l&amp;rsquo;ouverture des données Benchmark des solutions de portail  Résultats obtenus  Mars 2018 : premières retombées presse au démarrage de la mission dans la Gazette des Communes du fait de l’ambition forte du projet Octobre 2018 : constitution d&amp;rsquo;un réseau interne d’une quarantaine de correspondants, sensibilisation de toutes les directions à l&amp;rsquo;open data, un portail lancé avec plus de 120 jeux de données Novembre 2019 : remise d&amp;rsquo;un trophée open data pour les territoires pour l&amp;rsquo;accompagnement des collectivités locales de la région dans l’ouverture  </description>
+    </item>
+    
+    <item>
+      <title>Construction de tableaux de bord pour la ville d&#39;Issy les Moulineaux</title>
+      <link>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux/</link>
+      <pubDate>Wed, 31 Jul 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux/</guid>
+      <description>Contexte  Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données. Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps.</description>
     </item>
     
   </channel>

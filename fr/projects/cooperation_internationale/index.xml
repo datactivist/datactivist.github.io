@@ -6,7 +6,7 @@
     <description>Recent content in Coopération internationale on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/cooperation_internationale/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/cooperation_internationale/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conception et animation d&#39;un hackathon au Ghana</title>
       <link>https://datactivist.coop/fr/references/projet_hackathon_accra/</link>
@@ -15,6 +15,16 @@
       <guid>https://datactivist.coop/fr/references/projet_hackathon_accra/</guid>
       <description>Objectifs Datactivist a accompagné l’AFD dans l’organisation d’un premier hackathon à l’étranger, à l’occasion de la Conférence Africaine pour les Données Géospatiales.
 Dans le cadre de son engagement à soutenir l’innovation numérique en tant que nouvelle possibilité d’accélérer les axes de développement, l’AFD a souhaité organiser un hackathon de deux jours à Accra, au Ghana, dont l’objectif est de promouvoir le rôle des technologies dans la prise en main par une plus large part de la société d’enjeux cruciaux tels que l’évolution de l’agriculture dans un contexte de réchauffement climatique.</description>
+    </item>
+    
+    <item>
+      <title>Actions de coopération du programme Smart City au Brésil pour l&#39;AFD</title>
+      <link>https://datactivist.coop/fr/references/mise-en-oeuvre-des-actions-de-cooperation-du-programme-smart-city-au-bresil-pour-l-afd/</link>
+      <pubDate>Sun, 31 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/mise-en-oeuvre-des-actions-de-cooperation-du-programme-smart-city-au-bresil-pour-l-afd/</guid>
+      <description>Contexte Dans le cadre d’un projet de coopération internationale avec l’AFD autour des villes intelligentes, Datactivist pilote trois projets :
+ l’accompagnement de la ville de Recife (Pernambouc) à la refonte de sa stratégie open data l&amp;rsquo;accompagnement à la mise en place d’un hyperviseur urbain réutilisant des données ouvertes à Curitiba (Paraná) l&amp;rsquo;organisation d&amp;rsquo;un évènement de médiation aux données à Recife.  Approche adoptée  Organisation d’un voyage d’études en France pour l’échange des bonnes pratiques: sélection des villes, projets et acteurs à rencontrer Organisation et animation d’un workshop à Recife en présence de 60 agents afin de sensibiliser les agents publics à l’ouverture des données et construire un réseau local des référents open data au sein de la Mairie de Recife Élaboration d’une étude sur l’ouverture des données à Recife ; diagnostic organisationnel, étude du portail, recommandations stratégiques Organisation d’un challenge data pour repenser les politiques publiques avec les données ouvertes, structuration de l’événement, définition du programme, établissement des partenariats , mise en place d’outils collaboratifs, création d’outils d’animation (kit participant), définition et préparation des données Organisation d&amp;rsquo;un séminaire dédié à la réflexion sur la mise en place d&amp;rsquo;un hyperviseur urbain à Curitiba : présentation d&amp;rsquo;une étude théorique, ateliers et entretiens avec les décideurs publics et les urbanistes de l&amp;rsquo;IPPUC (Instituto de Pesquisa e Planejamento Urbano de Curitiba), visites de terrain.</description>
     </item>
     
   </channel>
