@@ -8,20 +8,11 @@
     <language>fr_FR</language>
     <lastBuildDate>Sat, 20 Mar 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>conférence</title>
-      <link>https://datactivist.coop/fr/tags/conference/</link>
+      <title>Webinar</title>
+      <link>https://datactivist.coop/fr/tags/webinar/</link>
       <pubDate>Sat, 20 Mar 2021 23:00:00 +0000</pubDate>
       
-      <guid>https://datactivist.coop/fr/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smart city</title>
-      <link>https://datactivist.coop/fr/tags/smart-city/</link>
-      <pubDate>Sat, 20 Mar 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/tags/smart-city/</guid>
+      <guid>https://datactivist.coop/fr/tags/webinar/</guid>
       <description></description>
     </item>
     
@@ -40,15 +31,6 @@
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
       
       <guid>https://datactivist.coop/fr/tags/prez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Webinar</title>
-      <link>https://datactivist.coop/fr/tags/webinar/</link>
-      <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://datactivist.coop/fr/tags/webinar/</guid>
       <description></description>
     </item>
     
