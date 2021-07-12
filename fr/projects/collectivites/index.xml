@@ -6,7 +6,7 @@
     <description>Recent content in Collectivités Locales on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Wed, 31 Jul 2019 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/collectivites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/collectivites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accompagnement de la Région Occitanie sur l&#39;open data et l&#39;animation territoriale</title>
       <link>https://datactivist.coop/fr/references/occitanie/</link>
@@ -14,6 +14,26 @@
       
       <guid>https://datactivist.coop/fr/references/occitanie/</guid>
       <description>Objectifs  Faire de la région Occitanie un leader national et international de l&amp;rsquo;ouverture des données Accompagner l&amp;rsquo;organisation dans la transition vers l&amp;rsquo;open data par défaut Faire de la région le chef de file de l&amp;rsquo;ouverture des données territoriales  Approche adoptée  Sensibilisation à l&amp;rsquo;open data en comité directeur, accompagnement à la désignation des référents open data Définition collective d&amp;rsquo;une charte régionale de l&amp;rsquo;open data Accompagnement stratégique vers une politique régionale exemplaire d&amp;rsquo;ouverture des données Cartographie &amp;ldquo;grosses mailles&amp;rdquo; des données ouvrables par la région Entretiens avec les producteurs de données et les référents Production d&amp;rsquo;éléments de communication Animation interne de l&amp;rsquo;ouverture des données Benchmark des solutions de portail  Résultats obtenus  Mars 2018 : premières retombées presse au démarrage de la mission dans la Gazette des Communes du fait de l’ambition forte du projet Octobre 2018 : constitution d&amp;rsquo;un réseau interne d’une quarantaine de correspondants, sensibilisation de toutes les directions à l&amp;rsquo;open data, un portail lancé avec plus de 120 jeux de données Novembre 2019 : remise d&amp;rsquo;un trophée open data pour les territoires pour l&amp;rsquo;accompagnement des collectivités locales de la région dans l’ouverture  </description>
+    </item>
+    
+    <item>
+      <title>Accompagnement open data du Conseil départemental de Haute-Garonne</title>
+      <link>https://datactivist.coop/fr/references/accompagnement-open-data-cd31/</link>
+      <pubDate>Sun, 09 May 2021 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/accompagnement-open-data-cd31/</guid>
+      <description>Contexte Avec Eurogroup, Datactivist a accompagné le Conseil Départemental de Haute-Garonne dans la constitution et mise en place d’une stratégie open data pour les communes de plus de 3500 habitants. Le projet comptait trois volets principaux, un premier de consolidation et expérimentation ; un deuxième de déploiement industriel de l’expérimentation ; et enfin, un retour d’expérience.
+Approche adoptée  Permettre au département d’impulser une dynamique d’innovation numérique sur le territoire ; Identifier les partenaires pertinents et les mobiliser dès la construction de l’offre et de ses modalités ; Anticiper l’industrialisation à venir de la démarche en structurant un dispositif d’animation de l’Open data ; Permettre au département d’impulser une dynamique d’innovation numérique sur le territoire ; Identifier les partenaires pertinents et les mobilisant dès la construction de l’offre et de ses modalités ; Anticiper l’industrialisation à venir de la démarche en structurant un dispositif d’animation de l’Open data ; Permettre au département d’impulser une dynamique d’innovation numérique sur le territoire ; Identifier les partenaires pertinents et les mobilisant dès la construction de l’offre et de ses modalités ; Anticiper l’industrialisation à venir de la démarche en structurant un dispositif d’animation de l’Open data .</description>
+    </item>
+    
+    <item>
+      <title>Challenge Data à Sciences Po Saint-Germain-en-Laye</title>
+      <link>https://datactivist.coop/fr/references/challenge-data-sciences-po/</link>
+      <pubDate>Wed, 31 Jul 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/challenge-data-sciences-po/</guid>
+      <description>Contexte Le Challenge Data est l’opportunité pour les étudiant.e.s de l’IEP d’une immersion totale dans le travail de design de services ou de politiques publiques utilisant des données. Il prend la forme d’un séminaire participatif de cinq jours en équipe, associée à des ateliers pratiques animés par des experts (open data, design de services).
+L’équipe de Datactivist accompagne les étudiant.e.s tout au long du challenge dans une exploration d’usages, mais aussi de cadres législatifs ou applicatifs qui façonnent le travail des données dans un environnement public ou privé.</description>
     </item>
     
     <item>
@@ -27,19 +47,19 @@
     
     <item>
       <title>Organisation et animation de la Dataweek</title>
-      <link>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux-copy-1/</link>
+      <link>https://datactivist.coop/fr/references/dataweek/</link>
       <pubDate>Wed, 31 Jul 2019 22:00:00 +0000</pubDate>
       
-      <guid>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux-copy-1/</guid>
+      <guid>https://datactivist.coop/fr/references/dataweek/</guid>
       <description>Contexte  Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données. Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps.</description>
     </item>
     
     <item>
       <title>Événement SCOPE Consult 	</title>
-      <link>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux-copy/</link>
+      <link>https://datactivist.coop/fr/references/scope-consult/</link>
       <pubDate>Wed, 31 Jul 2019 22:00:00 +0000</pubDate>
       
-      <guid>https://datactivist.coop/fr/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux-copy/</guid>
+      <guid>https://datactivist.coop/fr/references/scope-consult/</guid>
       <description>Contexte  Le projet SCOPE (Source de la Commande publique Ouverte Pour les Entreprises), lauréat en 2017 d’un financement PIA, avait pour ambition de créer à l’échelle d’une région une plateforme ouverte de diffusion et d’échange d’informations relatives aux marchés publics d’Occitanie. Cette ambition concrète est pensée en lien avec une vision prospective de l’ouverture des données des consultations.  Approche adoptée   Datactivist a accompagné l’organisation d’un événement permettant à l’ensemble des acteurs du secteur de construire un futur souhaitable partagé.</description>
     </item>
     
