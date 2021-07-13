@@ -8,6 +8,15 @@
     <language>fr_FR</language>
     <lastBuildDate>Mon, 31 Aug 2020 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/administrations_centrales/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AMUE - Accompagnement open data </title>
+      <link>https://datactivist.coop/fr/references/accompagnement-open-data-amue/</link>
+      <pubDate>Wed, 31 Jul 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/accompagnement-open-data-amue/</guid>
+      <description>Contexte  Datactivist accompagne l’Agence de Mutualisation des Universités et Établissements (AMUE) dans sa stratégie open data. Le projet comporte quelques objectifs spécifiques, comme animer et coordonner une stratégie commune pour les Universités ; outiller ces établissements techniquement d’un portail mutualisé ; et enfin, sensibiliser et former les agents en charge du projet. La sensibilisation a été choisie comme prioritaire pour le démarrage du projet.  Approche adoptée Deux approches ont été choisies, la production de documents de sensibilisation à l’ouverture des données et la réalisation d’un événement d’un jour dans le même objectif :</description>
+    </item>
+    
+    <item>
       <title>Formation à l&#39;open data pour les agents du ministère de la Culture</title>
       <link>https://datactivist.coop/fr/references/former-des-agents-publics-a-l-open-data/</link>
       <pubDate>Mon, 31 Aug 2020 22:00:00 +0000</pubDate>
