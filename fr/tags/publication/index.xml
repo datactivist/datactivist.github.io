@@ -6,7 +6,7 @@
     <description>Recent content in Publication on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Sat, 20 Mar 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 May 2019 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Construire un jeu de données GTFS: un guide complet pour l&#39;open data des transports</title>
       <link>https://datactivist.coop/fr/ressources/gtfs/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://datactivist.coop/fr/ressources/guide-d-organisation-d-un-sprint-data/</guid>
       <description>A la suite du Dataviz Challenge organisé avec le 110 bis, lab d’innovation du Ministère de l’Éducation nationale, les 22 et 23 mars 2019, le guide d’organisation d’un sprint data doit favoriser l’essaimage du format sprint data et rendre l’évènement réplicable tout en restituant les résultats de cet évènement.</description>
-    </item>
-    
-    <item>
-      <title>Étude de faisabilité d’un service générique d’accueil et de diffusion des données simples : recueil des besoins et des contraintes des usagers</title>
-      <link>https://datactivist.coop/fr/ressources/etude-de-faisabilite-d-un-service-generique-d-accueil-et-de-diffusion-des-donnees-simples/</link>
-      <pubDate>Sat, 20 Mar 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/fr/ressources/etude-de-faisabilite-d-un-service-generique-d-accueil-et-de-diffusion-des-donnees-simples/</guid>
-      <description></description>
     </item>
     
   </channel>
