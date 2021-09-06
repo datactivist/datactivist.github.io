@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Icade - La Smart data au service de l&#39;Icade</title>
+      <link>https://datactivist.coop/fr/references/icade-amo-projet-smart-building/</link>
+      <pubDate>Wed, 31 Jul 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/icade-amo-projet-smart-building/</guid>
+      <description>Contexte Un immeuble de bureaux moderne produit de la donnée de part en part, de manière assez massive. Dès lors, la position d&amp;rsquo;une foncière tertiaire telle qu&amp;rsquo;Icade se trouve interrogée par cette révolution du smart building : quel positionnement doit-elle adopter vis-à-vis de la donnée produite dans et autour de l&amp;rsquo;immeuble ? Comment la gestion de cette donnée, son agrégation et, le cas échéant, sa valorisation, s&amp;rsquo;intègrent-elles dans le modèle d&amp;rsquo;affaire d&amp;rsquo;une foncière, et quelle gouvernance de ces données établir ?</description>
+    </item>
+    
+    <item>
       <title>Ministère de la Culture - Formation à l&#39;open data des agents</title>
       <link>https://datactivist.coop/fr/references/former-des-agents-publics-a-l-open-data/</link>
       <pubDate>Mon, 31 Aug 2020 22:00:00 +0000</pubDate>
@@ -24,6 +33,18 @@
       <guid>https://datactivist.coop/fr/references/former-des-agents-publics-a-l-open-data/</guid>
       <description>Contexte La formation a permis aux agents du Ministère de la Culture de comprendre l’origine de l’open data, ses grands principes et le cadre juridique actuel. Composé de présentations et d’ateliers, les deux modules de formation d&amp;rsquo;une journée conçus en partenariat avec Stat4Decision mettent en relief l’importance de l’ouverture des données dans la transformation de l’État et présentent des cas issus du domaine de la culture.
 Approche adoptée Cette action de formation a été déclinée en deux modules de formations d&amp;rsquo;une journée adaptés aux besoins des publics.</description>
+    </item>
+    
+    <item>
+      <title>OpenEdition - Stratégie d’ouverture des données</title>
+      <link>https://datactivist.coop/fr/references/openedition-strategie-d-ouverture-des-donnees/</link>
+      <pubDate>Mon, 31 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/openedition-strategie-d-ouverture-des-donnees/</guid>
+      <description>Contexte OpenEdition a souhaité être accompagné en vue de l’ouverture des données des différents sites du portail OpenEdition (métadonnées des documents, données statistiques et les logs, texte des documents, illustrations, données associées aux documents…)
+Dans le cadre de sa politique de recherche et développement, OpenEdition a souhaité :
+ Se positionner comme un acteur pionnier de l’ouverture des  données dans la recherche
+ Ouvrir la voie de l’ouverture des données de la recherche Mieux comprendre les usages des plateformes OpenEdition Permettre à d’autres d’innover avec les données d’OpenEdition  Approche adoptée  État de l’art de l’open data dans l’édition scientifique à travers la conduite et l&#39;analyse d&amp;rsquo;entretiens exploratoires auprès d’acteurs publics francophones venant d&amp;rsquo;institutions similaires à OpenEdition et impliqués dans des projets d&amp;rsquo;open data, benchmark des politiques d’open data de plateformes d’édition scientifique francophones, européennes et internationales Etude des besoins des usagers : conduite d&amp;rsquo;entretiens auprès de personnes intéressées par les données de l’édition scientifique et définition des personas afin de développer de l’empathie et de mieux identifier les besoins de la diversité des usagers potentiels des données.</description>
     </item>
     
   </channel>
