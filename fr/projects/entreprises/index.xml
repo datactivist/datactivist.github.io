@@ -5,6 +5,26 @@
     <link>https://datactivist.coop/fr/projects/entreprises/</link>
     <description>Recent content in Entreprises on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr_FR</language><atom:link href="https://datactivist.coop/fr/projects/entreprises/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr_FR</language>
+    <lastBuildDate>Wed, 31 Jul 2019 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/entreprises/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icade - La Smart data au service de l&#39;Icade</title>
+      <link>https://datactivist.coop/fr/references/icade-amo-projet-smart-building/</link>
+      <pubDate>Wed, 31 Jul 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/icade-amo-projet-smart-building/</guid>
+      <description>Contexte Un immeuble de bureaux moderne produit de la donnée de part en part, de manière assez massive. Dès lors, la position d&amp;rsquo;une foncière tertiaire telle qu&amp;rsquo;Icade se trouve interrogée par cette révolution du smart building : quel positionnement doit-elle adopter vis-à-vis de la donnée produite dans et autour de l&amp;rsquo;immeuble ? Comment la gestion de cette donnée, son agrégation et, le cas échéant, sa valorisation, s&amp;rsquo;intègrent-elles dans le modèle d&amp;rsquo;affaire d&amp;rsquo;une foncière, et quelle gouvernance de ces données établir ?</description>
+    </item>
+    
+    <item>
+      <title>Infrabel - Hackathon</title>
+      <link>https://datactivist.coop/fr/references/infrabel-hackathon/</link>
+      <pubDate>Thu, 28 Feb 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/infrabel-hackathon/</guid>
+      <description>Objectifs À l&amp;rsquo;occasion du lancement de son portail open data, Infrabel, société de droit public gestionnaire de l&amp;rsquo;infrastructure ferroviaire belge, a souhaité organiser un évènement afin de :
+ Lever de rideau sur les premières données ouvertes vers l’interne et l’externe Présenter la stratégie open data à la presse générale et spécialisée Organiser un premier temps fort avec des utilisateurs de données pour créer de premières réalisations concrètes, associer les services métiers en interne et des réutilisateurs de données Conserver le lien pour faire grandir la communauté et impliquer de nouvelles parties prenantes en interne et en externe  Approche adoptée   Datactivist est intervenue dans :</description>
+    </item>
+    
   </channel>
 </rss>
