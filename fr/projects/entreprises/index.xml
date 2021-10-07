@@ -6,7 +6,7 @@
     <description>Recent content in Entreprises on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Wed, 31 Jul 2019 22:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/entreprises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jan 2020 03:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/projects/entreprises/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Association des archivistes français - Formation open data</title>
       <link>https://datactivist.coop/fr/references/aaf-comprendre-et-mettre-en-oeuvre-l-open-data/</link>
@@ -35,6 +35,16 @@ Cette formation vise à :
       <guid>https://datactivist.coop/fr/references/infrabel-hackathon/</guid>
       <description>Objectifs À l&amp;rsquo;occasion du lancement de son portail open data, Infrabel, société de droit public gestionnaire de l&amp;rsquo;infrastructure ferroviaire belge, a souhaité organiser un évènement afin de :
  Lever de rideau sur les premières données ouvertes vers l’interne et l’externe Présenter la stratégie open data à la presse générale et spécialisée Organiser un premier temps fort avec des utilisateurs de données pour créer de premières réalisations concrètes, associer les services métiers en interne et des réutilisateurs de données Conserver le lien pour faire grandir la communauté et impliquer de nouvelles parties prenantes en interne et en externe  Approche adoptée   Datactivist est intervenue dans :</description>
+    </item>
+    
+    <item>
+      <title>Une entreprise de transport - cartographie des données de la mobilité sur un territoire</title>
+      <link>https://datactivist.coop/fr/references/une-entreprise-de-transport-cartographie-des-donnees-de-la-mobilite-sur-un-territoire/</link>
+      <pubDate>Tue, 14 Jan 2020 03:00:00 +0000</pubDate>
+      
+      <guid>https://datactivist.coop/fr/references/une-entreprise-de-transport-cartographie-des-donnees-de-la-mobilite-sur-un-territoire/</guid>
+      <description>Contexte Une entreprise de transport a confié à Datactivist la mission d&amp;rsquo;identifier le potentiel des données ouvertes pour concevoir des offres de transports qui correspondent au mieux à la demande des habitants en matière de mobilité.
+Dans un contexte où le transport de personnes est en forte mutation (nouveaux acteurs) et où les données produites sont de plus en plus volumineuses et variées, cette entreprise a souhaité disposer d’une cartographie précise de données à mobiliser sur un territoire.</description>
     </item>
     
   </channel>
