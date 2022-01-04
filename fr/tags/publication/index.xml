@@ -6,7 +6,7 @@
     <description>Recent content in Publication on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr_FR</language>
-    <lastBuildDate>Sat, 20 Mar 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 16:35:39 +0200</lastBuildDate><atom:link href="https://datactivist.coop/fr/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Étude de faisabilité d’un service générique d’accueil et de diffusion des données simples : ambitions du service et scénarios de mise en œuvre</title>
       <link>https://datactivist.coop/fr/ressources/etude-de-faisabilite-d-un-service-generique-d-accueil-et-de-diffusion-des-donnees-simples-ambitions-du-service-et-scenarios-de-mise-en-oeuvre/</link>
@@ -23,6 +23,15 @@
       
       <guid>https://datactivist.coop/fr/ressources/etude-de-faisabilite-d-un-service-generique-d-accueil-et-de-diffusion-des-donnees-simples/</guid>
       <description>Le document, produit pour le Comité pour la science ouverte, présente les besoins et contraintes des usagers concernant la création d&amp;rsquo;un entrepôt générique national, première phase de l&amp;rsquo;étude de faisabilité. Il détaille les attentes concernant l&amp;rsquo;entrepôt, reposant sur la confiance, la qualité et la responsabilité, et celles portant sur les différents types d&amp;rsquo;usagers sur un plan technique et fonctionnel.</description>
+    </item>
+    
+    <item>
+      <title>De la smart city à la réalité des territoires connectés : l&#39;émergence d&#39;un modèle français ?</title>
+      <link>https://datactivist.coop/fr/ressources/dge/</link>
+      <pubDate>Tue, 04 Jan 2022 16:35:39 +0200</pubDate>
+      
+      <guid>https://datactivist.coop/fr/ressources/dge/</guid>
+      <description>Cette grande étude commanditée par la DGE, la FFT, SYCABEL et l&amp;rsquo;AFNUM et réalisée par le consortium Data Publica avec KPMG vise à connaître la réalité du déploiement des outils et des méthodes de territoire intelligent en France, contribuer à la définition d’un possible modèle français du territoire intelligent et produire des recommandations pour en favoriser la définition.</description>
     </item>
     
     <item>
