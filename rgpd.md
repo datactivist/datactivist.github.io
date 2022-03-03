@@ -1,7 +1,7 @@
 Confidentialité
 ---
 
-Les données personnelles recueillies sur ce formulaire (Nom, prénom, adresse mail et employeur) sont enregistrées dans un fichier informatisé par DATACTIVIST sise 7, bis avenue Saint-Jérôme, à Aix-en-Provence (13100) pour l’organisation et la gestion de sa soirée à l’occasion des vœux pour l’année 2021 à destination de ses clients et partenaires ainsi que la gestion de la prospection commerciale. La base légale du traitement est l’intérêt légitime.
+Les données personnelles recueillies sur ce formulaire (Nom, prénom, adresse mail et employeur) sont enregistrées dans un fichier informatisé par DATACTIVIST sise 7, bis avenue Saint-Jérôme, à Aix-en-Provence (13100) pour l’organisation et la gestion de sa soirée du 9 mars 2022 à Lyon. La base légale du traitement est l’intérêt légitime.
 
 Les données collectées seront communiquées aux seuls destinataires suivants : les consultant·e·s et associé·e·s de l’équipe de Datactivist.
 
