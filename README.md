@@ -1,4 +1,4 @@
-Bienvenue dans le backoffice du site de Datactivist ! 
+Bienvenue dans le backoffice du site de la coopérative Datactivist ! 
 
 Comme vous avez pu le voir, ce site ne dit pas encore beaucoup de choses mais nous sommes une jeune entreprise qui s'est lancée en novembre 2016. On attend d'avoir un petit peu de perspective pour avoir un vrai site complet qui raconte toutes nos aventures.
 Bientôt on submergera l'Internet de mises à jour.
